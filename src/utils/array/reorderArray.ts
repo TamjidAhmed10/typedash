@@ -186,10 +186,5 @@ function getTypePriority(value: any): number {
       return 6;
   }
 }
-
-export {
-  reorderArray,
-  type SingleReorderConfig,
-  type ReorderConfig,
-  type OrderDirection,
-};
+export default reorderArray;
+export { type SingleReorderConfig, type ReorderConfig, type OrderDirection };
