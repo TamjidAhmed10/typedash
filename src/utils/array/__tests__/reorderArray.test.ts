@@ -1,4 +1,4 @@
-import reorderArray from '../array/reorderArray';
+import reorderArray from '../reorderArray';
 
 describe('reorderArray', () => {
   type Item = { id: number; name: string; position: any };

@@ -1,4 +1,4 @@
-import isArrayEqual from '../array/isArrayEqual';
+import isArrayEqual from '../isArrayEqual';
 
 describe('isArrayEqual', () => {
   // Simple cases
